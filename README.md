@@ -4,7 +4,7 @@
 
 ## A webpage that consults PokéAPI to show Pokemon data
 
-[Available Here/Disponible Aquí](https://ricardojcruz.github.io/pokedex-web)
+[Available Here/Disponible Aquí](https://ricardojcruz.github.io/pokedex-web/)
 
 Looking for a simple way to get the info of your favorite Pokémon?
 
