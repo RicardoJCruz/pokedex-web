@@ -1,6 +1,6 @@
 # Pokédex Web
 
-[!pokedex-screenshot](./img/pokedex-screenshot.jpeg)
+![pokedex-screenshot](./img/pokedex-screenshot.jpeg)
 
 ## A webpage that consults PokéAPI to show Pokemon data
 
